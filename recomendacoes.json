@@ -1,0 +1,22 @@
+[
+  {
+    'id': 1,
+    'recomendacao': 'Antes de clicar em “Entrar na fila”, verifique se seus dados foram corretamente inseridos',
+    'ordem': 2
+  },
+  {
+    'id': 2,
+    'recomendacao': 'Caso seja uma emergência digite [EMERGÊNCIA] no campo de assunto, seguido do assunto, por exemplo [EMERGÊNCIA] Greve geral - início dia 22/03/2020',
+    'ordem': 2
+  },
+  {
+    'id': 3,
+    'recomendacao': 'Se houver a necessidade de adicionar mais pessoas à reunião, separe os emails usando vírgulas, caso contrário os convidados não receberão o convite',
+    'ordem': 2
+  },
+  {
+    'id': 4,
+    'recomendacao': 'Ao clicar no botão “Entrar na fila”, sua solicitação de reunião será enviada ao advogado, que criará uma sala de reunião e mandará o link da reunião para o email cadastrado e convidados, caso haja algum, lembre-se de verificar o spam e lixo eletrônico de sua caixa de email',
+    'ordem': 2
+  }
+]
